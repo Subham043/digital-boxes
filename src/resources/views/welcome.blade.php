@@ -241,7 +241,7 @@
                         <div class="about-content wow fadeInUp delay-0-4s">
                             <div class="section-title mb-30">
                                 <span class="sub-title mb-15">About Digital Boxes</span>
-                                <h2>We’re Award-winning web design studio</h2>
+                                <h2>Unveiling Bangalore's Premier Web Development Company</h2>
                             </div>
                             <p>Digital Boxes specializes in creating, designing, and maintaining websites for various clients. We have a team of skilled professionals, including web developers, designers, and digital marketers, who collaborate to deliver high-quality websites tailored to the specific needs of our clients.</p>
                             <p>The primary focus is to build functional, user-friendly, and visually appealing websites. We work closely with clients to understand their requirements, goals, and target audience, ensuring that the website aligns with the client's brand identity and objectives.</p>
